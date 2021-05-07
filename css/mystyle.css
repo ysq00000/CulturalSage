@@ -1,0 +1,73 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("../img/myimg/background21.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+    -moz-background-size: cover;    /* 针对Firefox浏览器 */
+    -o-background-size: cover;      /* 针对Operallq */
+    background-size: cover;         /* 通用 */
+}
+
+.top-nav-collapse {
+  background-color:rgb(224, 154, 192);
+}
+
+#navbar-brand_icon{
+  opacity: 1;       /* 通用 */
+  -webkit-opacity: 0.7; /* 针对Chrome, Safari, Edge等浏览器*/
+  -moz-opacity: 0.7;    /* 针对Firefox浏览器 */
+  -o-opacity: 0.7;      /* 针对Operallq */        
+}
+a > font{
+  color: rgb(255, 0, 106);
+}
+.Mystyletext{
+  color: rgb(241, 66, 218);
+}
+/* 使滚动的背景图片固定，滚动时图片有固定的效果 */
+.streak.streak-photo {
+  background-attachment: fixed;
+}
+.mybg{
+  background-color: rgb(181, 219, 216);
+}
+
+pre{
+  font-size: 20px;
+  margin-bottom: 0px;
+  color: rgb(231, 41, 206);
+}
+#ByeKang{
+  background-color: rgb(146, 204, 185);
+  color: rgb(85, 34, 224);
+}
+.Blue-text{
+  color: rgb(24, 6, 179);
+}
+.Yellow-text{
+  color: rgb(131, 240, 6);
+}
+.Lin-text{
+  color: rgb(6, 232, 240);
+}
+.Zhang-text{
+  color: rgb(217, 240, 6);
+}
+#April{
+  background-color: rgb(146, 204, 185);
+  color: rgb(85, 34, 224);
+}
+#Atree{
+  background-color: rgb(146, 204, 185);
+  color: rgb(85, 34, 224);
+  size: 20px;
+}
+/* #MyCarousel{
+  height: 100%;
+  width: 100%;
+} */
